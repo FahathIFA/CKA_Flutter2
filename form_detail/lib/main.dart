@@ -11,7 +11,7 @@ void main() => runApp(const MyApp());
 class PersonInfo {
   String _fname = "";
   String _lname = "";
-  String _sex = "m";
+  String _sex = "f";
   String _addr1 = "";
   String _addr2 = "";
   String _city = "";
